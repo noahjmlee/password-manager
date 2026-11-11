@@ -1,7 +1,7 @@
 # password-manager
-Simple Local Password Manager \
-Created in September 2025 \
-Designed for CSDS 344 at Case Western Reserve University
+Simple Local Password Manager. \
+Created in September 2025. \
+Designed for CSDS 344 at Case Western Reserve University.
 
 ## Features
 - Use a password to protect all your other passwords
